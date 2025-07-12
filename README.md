@@ -1,6 +1,10 @@
 # Sertifikat MTCNA
 (https://mikrotik.com/training/certificates/c453823c33eba16a0e62)
 
+# Sertifikat IDN
+• Mikrotik Dasar (https://lms.idn.id/certificates/sertifikat-mikrotik-dasar/?course_id=182&cert-nonce=8d18b3d9a4)
+• Jaringan Dasar (https://lms.idn.id/certificates/sertifikat-jaringan-komputer-dasar/?course_id=180&cert-nonce=6060a23781)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fayannn27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fayannn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fayannn27@gmail.com) 
