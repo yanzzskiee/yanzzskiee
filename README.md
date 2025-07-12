@@ -1,4 +1,5 @@
 # Sertifikat MTCNA
+(https://mikrotik.com/training/certificates/c453823c33eba16a0e62)
 
 
 ## 🌐 Socials:
