@@ -2,8 +2,9 @@
 (https://mikrotik.com/training/certificates/c453823c33eba16a0e62)
 
 # Sertifikat IDN
-• Mikrotik Dasar (https://lms.idn.id/certificates/sertifikat-mikrotik-dasar/?course_id=182&cert-nonce=8d18b3d9a4)
-• Jaringan Dasar (https://lms.idn.id/certificates/sertifikat-jaringan-komputer-dasar/?course_id=180&cert-nonce=6060a23781)
+1. Mikrotik Dasar (https://lms.idn.id/certificates/sertifikat-mikrotik-dasar/?course_id=182&cert-nonce=8d18b3d9a4)
+2. Cisco Dasar (https://lms.idn.id/certificates/sertifikat-cisco-dasar/?course_id=184&cert-nonce=1377c67d20)
+3. Jaringan Dasar (https://lms.idn.id/certificates/sertifikat-jaringan-komputer-dasar/?course_id=180&cert-nonce=6060a23781)
 
 
 ## 🌐 Socials:
