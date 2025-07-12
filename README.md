@@ -1,5 +1,4 @@
-# 💫 About Me:
-AING MAUNG
+# Sertifikat MTCNA
 
 
 ## 🌐 Socials:
